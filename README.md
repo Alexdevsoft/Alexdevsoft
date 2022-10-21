@@ -14,12 +14,19 @@ Meu foco atualmente é fullstack
 
 🛠️ Tecnologies skills
 
+<div>  
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</div>
+
+##
+
 <div>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/brDTyNPb/java.png"/>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/zBJCGyVb/react.png"/>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/0QbpwL0P/postgresql-logo.png"/>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/dVtzFrXT/html.png"/>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/PJjMZS3x/css.png"/>
-    <img align="center" alt="Alex-java" height="100" widht="100" src="https://i.postimg.cc/25WcZLk0/Java-Script.png"/>
+    <a href="mailto:alexhavilla2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+    <a href="https://www.instagram.com/alexdevsoft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
