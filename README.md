@@ -12,7 +12,7 @@ Meu foco atualmente é fullstack
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdevsoft&layout=compact&theme=tokyonight"/>
 </div>
 
-🛠️ Tecnologies skills
+## 🛠️ Tecnologies skills
 
 <div>  
     <img align="center" alt="Alex-java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
