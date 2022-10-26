@@ -5,7 +5,9 @@ Sou desenvolvedor web
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
-Meu foco atualmente é fullstack
+Estou com um novo github, pois o antigo github.com/AlexDev39 não uso mais, porém deixarei lá para quem quiser acompanhar meus projetos antigos.
+
+Meu foco atualmente é fullstack com Java e Front-End
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexdevsoft&show_icons=true&theme=tokyonight"/>
