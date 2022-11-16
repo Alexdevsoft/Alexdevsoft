@@ -2,9 +2,15 @@
 Eu sou Alex Almeida
 
 Sou desenvolvedor Java Web + Front-end
-Estudante de Análise e Desenvolvimento de Sistemas
-Estou com um novo github, pois o antigo github.com/AlexDev39 não uso mais, porém deixarei lá para quem quiser acompanhar meus projetos antigos.
-Meu foco atualmente é fullstack com Java e Front-End.
+Estudante de Análise e Desenvolvimento de Sistemas.<br>
+Estou com um novo github, pois o antigo github.com/AlexDev39 não uso mais, porém deixarei lá para quem quiser acompanhar meus projetos antigos.<br>
+Meu foco atualmente é Full-stack com Java e Front-End.<br>
+Tenho quase 2 anos de experiência, atualmente vivo no nordeste do Brasil.<br>
+Hoje dedico minha vida a na programação e sempre seguirei nessa área. 
+
+
+![mario-dev](https://user-images.githubusercontent.com/107814495/202304793-e2ecc848-7556-42da-9201-d97cc1ddb736.gif)
+<br><br>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexdevsoft&show_icons=true&theme=tokyonight"/>
