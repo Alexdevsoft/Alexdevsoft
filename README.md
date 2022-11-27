@@ -6,10 +6,15 @@ Estudante de Análise e Desenvolvimento de Sistemas.<br>
 Estou com um novo github, pois o antigo github.com/AlexDev39 não uso mais, porém deixarei lá para quem quiser acompanhar meus projetos antigos.<br>
 Meu foco atualmente é Full-stack com Java e Front-End.<br>
 Tenho quase 2 anos de experiência, atualmente vivo no nordeste do Brasil.<br>
-Hoje dedico minha vida a na programação e sempre seguirei nessa área. 
+Hoje dedico minha vida a na programação e sempre seguirei nessa área. <br>
+Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e desenvolvendo constantemente minhas habilidades e crescimento profissional. Confio na minha capacidade em programação, adquirir e passar mais conhecimento na área.
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AMH.GalaxyFox)
+[![Curriculum](https://img.shields.io/badge/Curriculum-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://docs.google.com/document/d/1qbIXA7VEDnR_zXFHoipr1uK0dgLN0lRsdfXSB16FEOE/edit)
 
-![mario-dev](https://user-images.githubusercontent.com/107814495/202304793-e2ecc848-7556-42da-9201-d97cc1ddb736.gif)
+<img widht="100%" height="300em" src="https://user-images.githubusercontent.com/107814495/202304793-e2ecc848-7556-42da-9201-d97cc1ddb736.gif"/>
 <br><br>
 
 <div>
@@ -30,10 +35,5 @@ Hoje dedico minha vida a na programação e sempre seguirei nessa área.
 
 ##
 
-<div>
-    <a href="https://www.linkedin.com/in/alexsandro-j-a-almeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-         badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:alexhavilla2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>       </a>
-    <a href="https://www.instagram.com/alexdevsoft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
-</div>
+
 
