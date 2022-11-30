@@ -14,7 +14,7 @@ Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e d
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AMH.GalaxyFox)
 [![Curriculum](https://img.shields.io/badge/Curriculum-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://docs.google.com/document/d/1qbIXA7VEDnR_zXFHoipr1uK0dgLN0lRsdfXSB16FEOE/edit)
 
-<img widht="100%" height="300em" src="https://user-images.githubusercontent.com/107814495/202304793-e2ecc848-7556-42da-9201-d97cc1ddb736.gif"/>
+[![mario-dev.gif](https://i.postimg.cc/NjqMwhBk/mario-dev.gif)](https://postimg.cc/8j4Dh0F7)
 <br><br>
 
 <div>
