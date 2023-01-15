@@ -149,14 +149,7 @@ Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e d
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://i.postimg.cc/V6qBnXNj/google-cloud.png" width="65px" alt="Google Cloud icon"/><br>
-      <sub>
-        <b>
-          <pre>Google Cloud</pre>
-        </b>
-      </sub>
-    </td>
+    
   </tr>
   </tr>
 <!--<td align="center">
