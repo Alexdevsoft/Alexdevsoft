@@ -109,14 +109,6 @@ Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e d
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://i.postimg.cc/CLKstB14/heroku.png" width="65px" alt="Heroku icon"/><br>
-      <sub>
-        <b>
-          <pre>Heroku</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
       <sub>
