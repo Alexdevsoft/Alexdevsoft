@@ -44,14 +44,6 @@ Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e d
       </sub>
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/xd55kKpB/CSHARP.png" width="65px" alt="C-Sharp icon"/><br>
-      <sub>
-        <b>
-          <pre>CSharp</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="65px" alt="PostgreSQL icon"/><br>
       <sub>
         <b>
