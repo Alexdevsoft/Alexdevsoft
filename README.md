@@ -1,5 +1,5 @@
 ## 🖖 Hi!
-Eu sou Alex Almeida
+Eu sou Alex Almeida!
 
 Sou desenvolvedor Java Web + Front-end<br>
 Estudante de Análise e Desenvolvimento de Sistemas.<br>
