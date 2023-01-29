@@ -7,7 +7,7 @@ Estou com um novo github, pois o antigo <a href="https://github.com/AlexDev39" >
 Meu foco atualmente é Full-stack com Java e Front-End.<br>
 Tenho quase 2 anos de experiência, atualmente vivo no nordeste do Brasil.<br>
 Hoje dedico minha vida na programação e sempre seguirei nessa área. <br>
-Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e desenvolvendo constantemente minhas habilidades e crescimento profissional. Confio na minha capacidade em programação, adquirir e passar mais conhecimento na área.
+Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e desenvolvendo constantemente minhas habilidades e crescimento profissional. Confio na minha capacidade em programação, adquirir e passar mais conhecimento na área
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
