@@ -12,7 +12,6 @@ Programando desde 2019 e experiência de quase 2 anos, extremamente motivado e d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AMH.GalaxyFox)
-[![Curriculum](https://img.shields.io/badge/Curriculum-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://docs.google.com/document/d/1qbIXA7VEDnR_zXFHoipr1uK0dgLN0lRsdfXSB16FEOE/edit)
 
 
 <img height="500em" align="center" src="https://i.postimg.cc/2yTVz6kq/pcgif.gif"/>
