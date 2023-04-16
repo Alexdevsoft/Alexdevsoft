@@ -1,4 +1,4 @@
-## 🖖 Hi!
+## 🖖 Oi!
 Eu sou Alex Almeida!
 
 Sou desenvolvedor Java Web + Front-end<br>
