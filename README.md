@@ -50,14 +50,6 @@ Atualmente sou Analista de Qualidade (QA) na Serása Experian. <br>
       </sub>
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/TY89BwL7/SQLSERVER.png" width="65px" alt="SQL Server icon"/><br>
-      <sub>
-        <b>
-          <pre>SQL Server</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
       <sub>
         <b>
