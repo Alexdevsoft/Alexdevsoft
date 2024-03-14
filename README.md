@@ -1,12 +1,13 @@
 ## 🖖 Oi!
-Eu sou Alex Almeida!
+Eu sou Alexsandro Almeida!
 
-Sou desenvolvedor Java Web + Front-end<br>
-Estudante de Análise e Desenvolvimento de Sistemas.<br>
-Estou com um novo github, pois o antigo <a href="https://github.com/AlexDev39" >GitHub AlexDev39</a> não uso mais, porém deixarei lá para quem quiser acompanhar meus projetos antigos.<br>
-Meu foco atualmente é Full-stack com Java e Front-End.<br>
-Tenho quase 2 anos de experiência e vivo no nordeste do Brasil.<br>
-Atualmente sou Analista de Qualidade (QA) na Serása Experian. <br>
+Com uma sólida experiência de 2 anos e meio como desenvolvedor Front End, seguido por mais de um ano como Analista de Qualidade na Serasa Experian, demonstro um compromisso notável com a excelência e aprimoramento contínuo na área de tecnologia da informação. Meu background técnico aliado ao atual papel em garantia de qualidade proporciona uma perspectiva única sobre o ciclo de desenvolvimento de software. Minha paixão pela área reflete-se na busca ativa por conhecimento, evidenciada pelo meu envolvimento como estudante de Análise e Desenvolvimento de Sistemas. <br>
+
+## Experiência Profissional:
+
+Analista de Qualidade na Serasa Experian (1 ano+): Desempenhando um papel crucial na garantia da qualidade de software, demonstro habilidades analíticas e um olhar atento aos detalhes para identificar e resolver problemas. Minha capacidade de colaborar efetivamente com equipes de desenvolvimento e comunicação clara são essenciais para a entrega de produtos de alta qualidade.
+
+Desenvolvedor Front End (2 anos e meio): Durante meu tempo como desenvolvedor Front End, acumulei um conhecimento profundo em tecnologias essenciais para a criação de interfaces de usuário modernas e responsivas. Sua capacidade de transformar requisitos de design em código funcional e esteticamente agradável foi fundamental para o sucesso de vários projetos.<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
