@@ -124,6 +124,14 @@ Desenvolvedor Front End (2 anos e meio): Durante meu tempo como desenvolvedor Fr
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/3wTr8XMt/python.png?i=md" width="65px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
     
   </tr>
   </tr>
