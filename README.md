@@ -1,7 +1,7 @@
 ## 🖖 Oi!
 Eu sou Alexsandro Almeida!
 
-Com uma sólida experiência de 2 anos e meio como desenvolvedor Front End, seguido por mais de um ano como Analista de Qualidade na Serasa Experian, demonstro um compromisso notável com a excelência e aprimoramento contínuo na área de tecnologia da informação. Meu background técnico aliado ao atual papel em garantia de qualidade proporciona uma perspectiva única sobre o ciclo de desenvolvimento de software. Minha paixão pela área reflete-se na busca ativa por conhecimento, evidenciada pelo meu envolvimento como estudante de Análise e Desenvolvimento de Sistemas. <br>
+Com uma sólida experiência de 2 anos e meio como desenvolvedor Front End, seguido por mais de um ano como Analista de Qualidade na Serasa Experian, demonstro um compromisso na área de tecnologia da informação. Meu background técnico aliado ao atual papel em garantia de qualidade proporciona uma perspectiva única sobre o ciclo de desenvolvimento de software. Minha paixão pela área reflete-se na busca ativa por conhecimento, evidenciada pelo meu envolvimento como estudante de Análise e Desenvolvimento de Sistemas. <br>
 
 ## Experiência Profissional:
 
