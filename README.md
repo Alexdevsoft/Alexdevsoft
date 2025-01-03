@@ -4,9 +4,11 @@ Eu sou Alexsandro Almeida!
 Profissional com mais de 2 anos de experiência em desenvolvimento Java, atuando como desenvolvedor Fullstack e Analista de Qualidade de Software em grandes empresas. Vivência em desenvolvimento de aplicações web e teste de software utilizando tecnologias como Java, Spring framework, PostgreSQL, React, TypeScript e Node.js, testes de software como automação de teste, teste funcionais e teste de APIs utilizando Cucumber, Selenium, JMeter, Charles Proxy e Postman. Sou comunicativo, apaixonado por aprender e compartilhar conhecimento, com foco em soluções criativas. Atualmente, estou no penúltimo período do curso de Análise e desenvolvimento de sistemas e possuo nível intermediário em inglês. <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)<br><br>
 
-<img height="500em" align="center" src="https://i.postimg.cc/2yTVz6kq/pcgif.gif"/>
+<div align="center">
+<img height="500" src="https://i.postimg.cc/2yTVz6kq/pcgif.gif"/>
+</div>
 <br><br>
 
 <div>
@@ -27,10 +29,10 @@ Profissional com mais de 2 anos de experiência em desenvolvimento Java, atuando
       </sub>
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/QMpskVT2/spring.png" width="65px" alt="Spring Boot icon"/><br>
+      <img src="https://i.postimg.cc/brYHqtbC/sfw.png" width="65px" alt="Spring Framework icon"/><br>
       <sub>
         <b>
-          <pre>Spring Boot</pre>
+          <pre>Spring Framework</pre>
         </b>
       </sub>
     </td>
