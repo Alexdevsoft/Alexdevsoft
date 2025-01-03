@@ -1,18 +1,10 @@
 ## 🖖 Oi!
 Eu sou Alexsandro Almeida!
 
-Com uma sólida experiência de 2 anos e meio como desenvolvedor Front End, seguido por mais de um ano como Analista de Qualidade na Serasa Experian, demonstro um compromisso na área de tecnologia da informação. Meu background técnico aliado ao atual papel em garantia de qualidade proporciona uma perspectiva única sobre o ciclo de desenvolvimento de software. Minha paixão pela área reflete-se na busca ativa por conhecimento, evidenciada pelo meu envolvimento como estudante de Análise e Desenvolvimento de Sistemas. <br>
-
-## Experiência Profissional:
-
-Analista de Qualidade na Serasa Experian (1 ano+): Desempenhando um papel crucial na garantia da qualidade de software, demonstro habilidades analíticas e um olhar atento aos detalhes para identificar e resolver problemas. Minha capacidade de colaborar efetivamente com equipes de desenvolvimento e comunicação clara são essenciais para a entrega de produtos de alta qualidade.
-
-Desenvolvedor Front End (2 anos e meio): Durante meu tempo como desenvolvedor Front End, acumulei um conhecimento profundo em tecnologias essenciais para a criação de interfaces de usuário modernas e responsivas. Sua capacidade de transformar requisitos de design em código funcional e esteticamente agradável foi fundamental para o sucesso de vários projetos.<br>
+Profissional com mais de 2 anos de experiência em desenvolvimento Java, atuando como desenvolvedor Fullstack e Analista de Qualidade de Software em grandes empresas. Vivência em desenvolvimento de aplicações web e teste de software utilizando tecnologias como Java, Spring framework, PostgreSQL, React, TypeScript e Node.js, testes de software como automação de teste, teste funcionais e teste de APIs utilizando Cucumber, Selenium, JMeter, Charles Proxy e Postman. Sou comunicativo, apaixonado por aprender e compartilhar conhecimento, com foco em soluções criativas. Atualmente, estou no penúltimo período do curso de Análise e desenvolvimento de sistemas e possuo nível intermediário em inglês. <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.AMH.GalaxyFox)
-
 
 <img height="500em" align="center" src="https://i.postimg.cc/2yTVz6kq/pcgif.gif"/>
 <br><br>
