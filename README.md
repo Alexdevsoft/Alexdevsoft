@@ -1,7 +1,14 @@
 ## 🖖 Oi!
 Eu sou Alexsandro Almeida!
 
-Profissional com mais de 2 anos de experiência em desenvolvimento Java, atuando como desenvolvedor Fullstack e Analista de Qualidade de Software em grandes empresas. Vivência em desenvolvimento de aplicações web e teste de software utilizando tecnologias como Java, Spring framework, PostgreSQL, React, TypeScript e Node.js, testes de software como automação de teste, teste funcionais e teste de APIs utilizando Cucumber, Selenium, JMeter, Charles Proxy e Postman. Sou comunicativo, apaixonado por aprender e compartilhar conhecimento, com foco em soluções criativas. Atualmente, estou no penúltimo período do curso de Análise e desenvolvimento de sistemas e possuo nível intermediário em inglês. <br>
+Formado em Análise e Desenvolvimento de Sistemas e com mais de 2 anos em experiência backend Java.
+Concluí vários cursos na área de TI como backend, frontend, banco de dados e arquitetura de software.
+Como programador backend java, me destaquei em desenvolvimento de sistemas web no site da empresa O Toureiro
+com Java, Springboot PostgreSQL e outras ferramentas. Em empresas como a Serasa Experian tive desafios
+complexos em automações e testes de páginas de varejo, usando Java, PostgreSQL e linguagens frontend.
+Sou apaixonado por tecnologia, aprendizado contínuo e trabalho em equipe. Pretendo continuar adquirindo mais
+conhecimento. Atualmente, estou em um curso da Oracle em busca do meu primeiro certificado de OCI (Oracle Cloud
+Infrastructure). <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)<br><br>
