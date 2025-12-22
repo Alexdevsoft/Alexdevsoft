@@ -1,14 +1,17 @@
 ## 🖖 Oi!
 Eu sou Alexsandro Almeida!
 
-Formado em Análise e Desenvolvimento de Sistemas e com mais de 2 anos em experiência backend Java.
-Concluí vários cursos na área de TI como backend, frontend, banco de dados e arquitetura de software.
-Como programador backend java, me destaquei em desenvolvimento de sistemas web no site da empresa O Toureiro
-com Java, Springboot PostgreSQL e outras ferramentas. Em empresas como a Serasa Experian tive desafios
-complexos em automações e testes de páginas de varejo, usando Java, PostgreSQL e linguagens frontend.
-Sou apaixonado por tecnologia, aprendizado contínuo e trabalho em equipe. Pretendo continuar adquirindo mais
-conhecimento. Atualmente, estou em um curso da Oracle em busca do meu primeiro certificado de OCI (Oracle Cloud
-Infrastructure). <br>
+Desenvolvedor de Software Full Stack com foco em Backend Java e sólida experiência em Frontend, atuando na construção de aplicações escaláveis, seguras e bem estruturadas.
+
+No backend, trabalho principalmente com Java, Spring Boot, APIs REST, integração com bancos de dados relacionais e boas práticas de arquitetura. Já atuei tanto no desenvolvimento de novas funcionalidades quanto na correção e evolução de sistemas existentes.
+
+No frontend, tenho experiência com JavaScript, HTML, CSS, React e TypeScript, criando interfaces responsivas e funcionais, com atenção à usabilidade, performance e integração eficiente com o backend.
+
+Possuo vivência em ambientes ágeis, colaboração com times multidisciplinares e contato direto com analistas de qualidade, produto e stakeholders, o que fortaleceu minha visão de entrega de valor de ponta a ponta.
+
+Atualmente busco oportunidades como Desenvolvedor Backend Java, Desenvolvedor Full Stack ou posições onde eu possa aplicar meus conhecimentos em Java e Frontend, contribuindo para soluções robustas e de impacto real.
+
+Se você procura um desenvolvedor comprometido, com visão completa da aplicação e foco em evolução contínua, vamos nos conectar. <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)<br><br>
