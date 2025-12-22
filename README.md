@@ -9,9 +9,7 @@ No frontend, tenho experiência com JavaScript, HTML, CSS, React e TypeScript, c
 
 Possuo vivência em ambientes ágeis, colaboração com times multidisciplinares e contato direto com analistas de qualidade, produto e stakeholders, o que fortaleceu minha visão de entrega de valor de ponta a ponta.
 
-Atualmente busco oportunidades como Desenvolvedor Backend Java, Desenvolvedor Full Stack ou posições onde eu possa aplicar meus conhecimentos em Java e Frontend, contribuindo para soluções robustas e de impacto real.
-
-Se você procura um desenvolvedor comprometido, com visão completa da aplicação e foco em evolução contínua, vamos nos conectar. <br>
+Atualmente busco oportunidades como Desenvolvedor Backend Java, Desenvolvedor Full Stack ou posições onde eu possa aplicar meus conhecimentos em Java e Frontend, contribuindo para soluções robustas e de impacto real. <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexhavilla2022@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-j-a-almeida/)<br><br>
