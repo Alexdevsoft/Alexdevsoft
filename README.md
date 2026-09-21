@@ -187,10 +187,16 @@ Atualmente busco oportunidades como Desenvolvedor Backend Java, Desenvolvedor Fu
         <b>
           <pre>Insomnia</pre>
         </b>
+
+        
       </sub>
     </td>
   </tr>-->
 </table>
+
+<div align"center">
+    <img src="https://raw.githubusercontent.com/Alexdevsoft/Alexdevsoft/output/snake.svg" alt="Snake animation" />
+</div>
 
 ##
 
